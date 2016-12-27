@@ -1,0 +1,12 @@
+1) avoid multiple import
+
+2) extern keyword
+3) static variable
+4) global variable
+5) volatile variable
+
+6) nested functions
+
+
+Detail required:
+1) passing array in function using pointer
