@@ -5,6 +5,8 @@
 1) We don't use those expressions to evaluate switch case,
    which may return floating point values or strings.
 
+   Basically, case expression must give integer result
+
 2) It isn't necessary to use break after each block,
    but if you do not use it, all the consecutive block of
    codes will get executed after the matching block.
