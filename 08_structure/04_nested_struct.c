@@ -27,4 +27,5 @@ int main(){
     printf("%s\n", st.s1.locality);
     printf("%s\n", st.s1.city);
     printf("%d\n", st.s1.pincode);
+
 }
