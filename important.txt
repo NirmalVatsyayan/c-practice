@@ -6,7 +6,3 @@
 5) volatile variable
 
 6) nested functions
-
-
-Detail required:
-1) passing array in function using pointer

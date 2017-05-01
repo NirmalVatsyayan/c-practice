@@ -17,6 +17,8 @@ int main(){
 
     // compile time initialization
     int marks[5] = {100,99,98,97,96};
+    //int marks[] = {100,99,98,97,96}; can also be written like this in case
+    //array declaration and initialization is done at same time.
 
     for (index = 0; index <5; index++){
         printf("value at index %d in array is %d\n", index, marks[index]);

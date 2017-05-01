@@ -6,7 +6,7 @@ struct Book
  char name[20];
  int price;
  int pages;
-} s; // struct variable
+}s; // struct variable
 
 
 int main(){
